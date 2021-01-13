@@ -1,0 +1,16 @@
+<svg id="Group_415" data-name="Group 415" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.873" height="61.746" viewBox="0 0 30.873 61.746">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.875" x2="1" y2="0.125" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b3e152"/>
+      <stop offset="1" stop-color="#f6e46f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_916" data-name="Path 916" d="M23.155,32.941V7.718a7.718,7.718,0,0,0-15.437,0V32.941a15.437,15.437,0,1,0,15.437,0Zm0,0" transform="translate(0)" fill="#c6e87d"/>
+  <path id="Path_917" data-name="Path 917" d="M52.959,94.123a10.291,10.291,0,0,1-5.146-19.2l2.573-1.485V45.241a2.573,2.573,0,0,1,5.145,0V73.434L58.1,74.92a10.291,10.291,0,0,1-5.145,19.2Zm0,0" transform="translate(-37.522 -37.522)" fill="#ecf7d4"/>
+  <path id="Path_918" data-name="Path 918" d="M79.437,308.959H74.291l2.573-10.291L64,308.959h5.146L66.573,319.25Zm0,0" transform="translate(-56.282 -262.649)" fill="url(#linear-gradient)"/>
+  <g id="Group_400" data-name="Group 400" transform="translate(2.573 10.291)">
+    <path id="Path_919" data-name="Path 919" d="M21.332,85.332H31.623v5.146H21.332Zm0,0" transform="translate(-21.332 -85.332)" fill="#a0d927"/>
+    <path id="Path_920" data-name="Path 920" d="M21.332,149.332H31.623v5.146H21.332Zm0,0" transform="translate(-21.332 -141.614)" fill="#a0d927"/>
+    <path id="Path_921" data-name="Path 921" d="M21.332,213.332H31.623v5.146H21.332Zm0,0" transform="translate(-21.332 -197.895)" fill="#a0d927"/>
+  </g>
+</svg>

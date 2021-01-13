@@ -1,0 +1,17 @@
+<svg id="Group_413" data-name="Group 413" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.101" height="41.213" viewBox="0 0 47.101 41.213">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.062" y1="0.875" x2="1.062" y2="0.125" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b3e152"/>
+      <stop offset="1" stop-color="#f6e46f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_883" data-name="Path 883" d="M329.813,0h-7.85A1.962,1.962,0,0,0,320,1.962V7.85a1.963,1.963,0,0,0,1.962,1.963h7.85a1.963,1.963,0,0,0,1.962-1.963V1.962A1.962,1.962,0,0,0,329.813,0Zm0,0" transform="translate(-290.562)" fill="#b3e152"/>
+  <path id="Path_884" data-name="Path 884" d="M323.925,7.85V1.962A1.962,1.962,0,0,1,325.888,0h-3.925A1.962,1.962,0,0,0,320,1.962V7.85a1.963,1.963,0,0,0,1.962,1.963h3.925A1.963,1.963,0,0,1,323.925,7.85Zm0,0" transform="translate(-290.562)" fill="#a0d927"/>
+  <path id="Path_885" data-name="Path 885" d="M73.813,0h-7.85A1.962,1.962,0,0,0,64,1.962V7.85a1.963,1.963,0,0,0,1.962,1.963h7.85A1.963,1.963,0,0,0,75.775,7.85V1.962A1.962,1.962,0,0,0,73.813,0Zm0,0" transform="translate(-58.112)" fill="#b3e152"/>
+  <path id="Path_886" data-name="Path 886" d="M67.925,7.85V1.962A1.962,1.962,0,0,1,69.888,0H65.962A1.962,1.962,0,0,0,64,1.962V7.85a1.963,1.963,0,0,0,1.962,1.963h3.925A1.963,1.963,0,0,1,67.925,7.85Zm0,0" transform="translate(-58.112)" fill="#a0d927"/>
+  <path id="Path_887" data-name="Path 887" d="M64,405.332h3.925v3.925H64Zm0,0" transform="translate(-58.112 -368.044)" fill="#b3e152"/>
+  <path id="Path_888" data-name="Path 888" d="M405.332,405.332h3.925v3.925h-3.925Zm0,0" transform="translate(-368.044 -368.044)" fill="#b3e152"/>
+  <path id="Path_889" data-name="Path 889" d="M45.138,64H1.962A1.962,1.962,0,0,0,0,65.962V95.4a1.963,1.963,0,0,0,1.962,1.963H45.138A1.963,1.963,0,0,0,47.1,95.4V65.962A1.962,1.962,0,0,0,45.138,64Zm0,0" transform="translate(0 -58.112)" fill="#ecf7d4"/>
+  <path id="Path_890" data-name="Path 890" d="M5.888,93.438a1.962,1.962,0,0,1-1.962-1.962V64H1.962A1.962,1.962,0,0,0,0,65.962V95.4a1.963,1.963,0,0,0,1.962,1.963H45.138A1.963,1.963,0,0,0,47.1,95.4V93.438Zm0,0" transform="translate(0 -58.112)" fill="#e2f4be"/>
+  <path id="Path_891" data-name="Path 891" d="M151.295,151.55l3.925-11.775h-5.888L163.07,128l-3.925,11.775h5.888Zm0,0" transform="translate(-135.594 -116.225)" fill="url(#linear-gradient)"/>
+</svg>
